@@ -1,2 +1,5 @@
 # Spam-Classifier-Naive-Bayes
-Naive Bayes implementation from scratch
+<br>
+Naive Bayes implementation from scratch:
+Accuracy = 98.92%
+
